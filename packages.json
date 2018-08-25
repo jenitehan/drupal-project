@@ -1,0 +1,11 @@
+{
+    "package": {
+        "name": "jenitehan/drupal-project",
+        "version": "8.x-dev",
+        "source": {
+          "url": "https://github.com/jenitehan/drupal-project.git",
+          "type": "git",
+          "reference": "8.x"
+        }
+    }
+}
